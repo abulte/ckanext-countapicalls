@@ -30,3 +30,5 @@ ckanext/countapicalls/._commands.py
 ckanext/countapicalls/._dbutil.py
 
 ckanext/countapicalls/._plugin.py
+
+._README.md
